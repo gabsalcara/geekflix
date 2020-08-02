@@ -16,6 +16,12 @@
       "categoriaId": 1,
       "titulo": "SEO com React",
       "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": 1,
+      "id": 2
     }
   ]
 }
